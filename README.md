@@ -1,4 +1,4 @@
-- 👀 interests: data dashboards & reports, twisty puzzles, character designs, hi-fi audio, superpower stories
+- 👀 interests: data dashboards & reports, twisty puzzles, character designs, hi-fi music, superpower stories
 - 🌱 currently learning SQL 
 
 <!---
