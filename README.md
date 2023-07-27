@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ky-ty
-- 👀 interested in data dashboards & reports, twisty puzzles, character designs, hi-fi audio, superpower stories
-- 🌱 currently learning data analytics: SQL 
+- 👀 interests: data dashboards & reports, twisty puzzles, character designs, hi-fi audio, superpower stories
+- 🌱 currently learning SQL 
 - 🫱🏽‍🫲🏽 not open to collaboration atm
 
 <!---
