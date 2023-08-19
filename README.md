@@ -1,5 +1,5 @@
 - 👀 interests: data dashboards & reports, twisty puzzles, character designs, hi-fi music, superpower stories
-- 🌱 currently learning SQL 
+- 🌱 currently learning Data Viz and Tableau 
 
 <!---
 ky-ty/ky-ty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
