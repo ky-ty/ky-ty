@@ -1,4 +1,4 @@
-- 👀 interests: data dashboards & reports, twisty puzzles, character designs, hi-fi music, superpower stories
+- 👀 interests: visualized data, twisty puzzles, character designs, neography, geometric logos, hi-fi music, superpower stories, free learning resources
 - 🌱 currently learning Data Viz and Tableau 
 
 <!---
