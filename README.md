@@ -1,4 +1,4 @@
-- 👀 interests: visualized data, twisty puzzles, character designs, neography, geometric logos, hi-fi music, superpower stories, free learning resources
+- 👀 aspiring Data/BI Analyst
 - 🌱 currently building projects
 
 <!---
